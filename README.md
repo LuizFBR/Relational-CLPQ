@@ -1,5 +1,7 @@
 # Relational-CLPQ
 
+## !!! This library currently does not work for properly constraining Prolog variables rationally !!!
+
 A Prolog pack built on top of CLPFD that allows reasoning about the rational numbers.
 
 To-do:
